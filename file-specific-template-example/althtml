@@ -1,0 +1,9 @@
+<html>
+	<head>
+	<title>This is a title</title>
+	</head>
+	<body>
+		<h1>This is a title from an alternate html file</h1>
+		##CONTENT##
+	</body>
+</html>

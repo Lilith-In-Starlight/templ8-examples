@@ -1,0 +1,3 @@
+TX-OTHERTAG=This is the default content of the OTHERTAG tag, it is only used if a file doesn't set its value
+;;TX-MULTILINE
+This is a multine tag with **style**.

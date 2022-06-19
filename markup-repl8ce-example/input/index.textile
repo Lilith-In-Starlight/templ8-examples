@@ -1,0 +1,7 @@
+TX-OTHERTAG=This tag has *style*
+;;TX-MULTILINE
+This one has **style** too
+Which is quite cool.
+-BEGINFILE-
+This is the content of index.textile
+

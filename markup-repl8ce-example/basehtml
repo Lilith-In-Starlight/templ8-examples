@@ -1,0 +1,11 @@
+<html>
+	<head>
+	<title>Title of the file</title>
+	</head>
+	<body>
+		<h1>Title of the page</h1>
+		##CONTENT##
+		##TX-OTHERTAG##
+		##TX-MULTILINE##
+	</body>
+</html>

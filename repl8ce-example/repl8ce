@@ -1,0 +1,4 @@
+TITLE=This is the default title, which is only used if a file doesn't set this tag
+OTHERTAG=This is the default content of the OTHERTAG tag, it is only used if a file doesn't set its value
+;;MULTILINE
+This is a multine tag. All multiline tags are only set after the single-line tags are set

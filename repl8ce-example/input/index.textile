@@ -1,0 +1,4 @@
+TITLE=This title was set by a tag
+-BEGINFILE-
+This is the content of index.textile
+
